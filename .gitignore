@@ -1,0 +1,40 @@
+# 系统文件
+Thumbs.db
+*.DS_Store
+Desktop.ini
+
+# IDE / 编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# Node
+node_modules/
+.npm/
+
+# 日志和临时文件
+*.log
+*.tmp
+.cache/
+
+# 编译产物
+*.o
+*.obj
+*.exe
+*.dll
+*.dylib
+*.class
+target/
+bin/
+obj/
